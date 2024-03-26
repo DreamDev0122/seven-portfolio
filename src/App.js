@@ -944,6 +944,7 @@ function App() {
                   <a href="https://github.com/DreamDev0122/" className="github" target="_blank"><i className="bi bi-github"></i></a>
                   <a href="https://t.me/lucky0122" className="telegram" target="_blank"><i className="bi bi-telegram"></i></a>
                   <a href="https://wa.me/13612325229" className="whatsapp" target="_blank"><i className="bi bi-whatsapp"></i></a>
+                  <a href="https://www.linkedin.com/in/vladyslav-nazarenko-7369762a8" className="linkedin" target="_blank"><i className="bi bi-linkedin"></i></a>
                 </div>
               </div>
             </div>
