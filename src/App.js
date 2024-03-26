@@ -252,15 +252,15 @@ function App() {
               <div className="row">
                 <div className="col-lg-6">
                   <ul>
-                    <li><i className="bi bi-chevron-right"></i> <strong>Birthday:</strong> <span>1 May 1995</span></li>
+                    <li><i className="bi bi-chevron-right"></i> <strong>Birthday:</strong> <span>1 May 1993</span></li>
                     <li><i className="bi bi-chevron-right"></i> <strong>Website:</strong> <span>www.example.com</span></li>
-                    <li><i className="bi bi-chevron-right"></i> <strong>Phone:</strong> <span>+123 456 7890</span></li>
-                    <li><i className="bi bi-chevron-right"></i> <strong>City:</strong> <span>New York, USA</span></li>
+                    <li><i className="bi bi-chevron-right"></i> <strong>Phone:</strong> <span>+380 500631382</span></li>
+                    <li><i className="bi bi-chevron-right"></i> <strong>City:</strong> <span>Kyiv, Ukraine</span></li>
                   </ul>
                 </div>
                 <div className="col-lg-6">
                   <ul>
-                    <li><i className="bi bi-chevron-right"></i> <strong>Age:</strong> <span>30</span></li>
+                    <li><i className="bi bi-chevron-right"></i> <strong>Age:</strong> <span>32</span></li>
                     <li><i className="bi bi-chevron-right"></i> <strong>Degree:</strong> <span>Master</span></li>
                     <li><i className="bi bi-chevron-right"></i> <strong>PhEmailone:</strong> <span>moriahlamie@gmail.com</span></li>
                     <li><i className="bi bi-chevron-right"></i> <strong>Freelance:</strong> <span>Available</span></li>
@@ -603,7 +603,7 @@ function App() {
             <div className="col-lg-6">
               <h3 className="resume-title">Sumary</h3>
               <div className="resume-item pb-0">
-                <h4>Vladyslav N</h4>
+                <h4>Vladyslav Nazarenko</h4>
                 <p><em>I have expertise in web scraping, automation bot creation, and developing web and custom applications across various domains, such as Education, Services, Ecommerce, Financial Applications, Real Estate, Restaurants, Telecom, and Healthcare for numerous USA-based clients.</em></p>
                 <p><em>In summary, if you seek a developer who delivers high-quality work, prompt responses, and 100% customer satisfaction, look no further. My skills in full-stack development, chatbot development, and API integration can propel your business to new heights.</em></p>
               </div>
@@ -931,7 +931,7 @@ function App() {
               <div className="info-box">
                 <i className="bx bx-map"></i>
                 <h3>My Address</h3>
-                <p>A108 Adam Street, New York, NY 535022</p>
+                <p>street 3-ho Internatsionalu, building 148, Kyiv, Ukraine</p>
               </div>
             </div>
 
@@ -940,11 +940,10 @@ function App() {
                 <i className="bx bx-share-alt"></i>
                 <h3>Social Profiles</h3>
                 <div className="social-links">
-                  <a href="#" className="discord"><i className="bi bi-discord"></i></a>
-                  <a href="#" className="skype"><i className="bi bi-skype"></i></a>
-                  <a href="#" className="github"><i className="bi bi-github"></i></a>
-                  <a href="#" className="telegram"><i className="bi bi-telegram"></i></a>
-                  <a href="#" className="whatsapp"><i className="bi bi-whatsapp"></i></a>
+                  <a href="https://github.com/DreamDev0122/" className="discord" target="_blank"><i className="bi bi-discord"></i></a>
+                  <a href="https://github.com/DreamDev0122/" className="github" target="_blank"><i className="bi bi-github"></i></a>
+                  <a href="https://t.me/lucky0122" className="telegram" target="_blank"><i className="bi bi-telegram"></i></a>
+                  <a href="https://wa.me/13612325229" className="whatsapp" target="_blank"><i className="bi bi-whatsapp"></i></a>
                 </div>
               </div>
             </div>
@@ -960,7 +959,7 @@ function App() {
               <div className="info-box">
                 <i className="bx bx-phone-call"></i>
                 <h3>Call Me</h3>
-                <p>+1 5589 55488 55</p>
+                <p>+380 500631382</p>
               </div>
             </div>
           </div>
@@ -992,7 +991,7 @@ function App() {
       </section>
 
       <div className="credits">
-        Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+        Designed by <a href="https://bootstrapmade.com/">Vlad</a>
       </div>
     </div>
   );
